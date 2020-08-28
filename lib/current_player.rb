@@ -4,5 +4,6 @@ def turn_count(argument)
     if token == "X" || token == "O"
       counter += 1
   end    
- end  
+ end
+   
 end 
