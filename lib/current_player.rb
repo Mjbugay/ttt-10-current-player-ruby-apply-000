@@ -5,5 +5,5 @@ def turn_count(argument)
       counter += 1
   end    
  end
-   
+   counter
 end 
