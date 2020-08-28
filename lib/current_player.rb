@@ -8,3 +8,5 @@ def turn_count(argument)
    counter
 end 
 
+def current_player(board)
+  
