@@ -1,4 +1,4 @@
 def turn_count(argument)
-  count = 0
-
+  counter = 0
+   
 end  
